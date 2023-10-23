@@ -36,3 +36,9 @@ new Vue({
         }
     }
 });
+new Vue({
+    el: '#app',
+    data: {
+        chickenChiliImage: 'images/chili.jpg', // Path to the chicken chili image
+    }
+});
